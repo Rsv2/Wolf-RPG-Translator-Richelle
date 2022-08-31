@@ -9,6 +9,6 @@ Wolf RPG Traslator "Richell"
 
 На данный момент разработан более мощный и функциональный переводчик на .Net Framework 4.8 [Wolf RPG Translator](https://pair.casualmods.net/images/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%20(120).png).
 
-[![Watch the video](https://raw.github.com/GabLeRoux/WebMole/master/ressources/WebMole_Youtube_Video.png)](http://youtu.be/PfHupYcsg3o)
+[![Watch the video](https://raw.github.com/GabLeRoux/WebMole/master/ressources/[WebMole_Youtube_Video.png](https://i9.ytimg.com/vi/PfHupYcsg3o/mq3.jpg?sqp=CKzYvpgG&rs=AOn4CLAd6O5jK8kh2Z9WmJbb63cyNcJWXQ))](http://youtu.be/PfHupYcsg3o)
 
 Однако это не то, чем я готов "делиться" или демонстрировать код за бесплатно.
